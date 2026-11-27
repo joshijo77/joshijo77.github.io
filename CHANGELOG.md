@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 (November 27, 2026)
+
+- Tightened vertical spacing between sections, headings, and content on every page, so the home page is about 11% shorter.
+
 ## 1.0.0 (November 27, 2026)
 
 - Launched the site: home page, research index, three research summaries, and a 404 page.
