@@ -1,0 +1,259 @@
+Joshua J. Nduwamungu: full site text
+Source: https://joshijo77.github.io/
+Updated: 2026-11-27
+
+============================================================
+Page: https://joshijo77.github.io/
+Joshua J. Nduwamungu | Technical Program Manager at Google
+============================================================
+
+Technical Program Manager at Google · San Francisco Bay Area
+# Joshua J. Nduwamungu
+I lead the technical work behind mergers, acquisitions, and divestitures at Google.
+Career highlights
+## At Google, I move teams, data, and tools through company deals
+I am a Technical Program Manager at Google in the San Francisco Bay Area. I lead technical execution for mergers, acquisitions, and divestitures across Google and Alphabet. I partner with software engineering, security, and product teams to build data migration platforms, automation pipelines, and productivity workflows.
+Migrations I led the design and rollout of new pipelines that move issue tracker and team wiki data into Google tools.
+Onboarding I set a repeatable plan for acquired technical teams to move their critical workflows to secure Google workstations.
+Cleanup I led technical planning to audit and retire legacy cloud domains left over from past deals.
+Automation I built a production Python service backed by Cloud Spanner that tracks engineering time across closed work items.
+Brought structured logging, error handling, and monitoring to migration tools, and wrote privacy design documents for them.
+Added AI and LLM tools to technical onboarding for acquired teams.
+Mapped the systems of acquired companies in AI, cloud, and security, and routed their work to Google infrastructure.
+Research
+## Three papers from my years in food science
+Before Google, I studied integrated sciences at the University of Nebraska-Lincoln and worked as a research assistant in its Food Science Department. That work led to three papers and one conference abstract on machine learning, Raman spectroscopy, and plant-based food. I then earned a master of science at the University of Notre Dame. Each card starts with the problem the paper set out to fix.
+Food Chemistry · 2022
+Checking an oil type usually needs slow chemical preparation.
+### Machine learning for edible oil testing
+Raman spectroscopy plus nine machine learning models identified oil type with 96.7% accuracy.
+INFORM · 2020
+Raman testing needed a more efficient workflow.
+### Faster checks for oil type, adulteration, and oxidation
+A magazine article for AOCS readers on using machine learning to read the Raman spectra of edible oils.
+Food Bioengineering · 2022
+Gluten and xanthan gum do not suit every shopper.
+### Egg white proteins for gluten-free veggie sausage
+One egg white protein, M200, gave the texture closest to a commercial meat sausage.
+Publications
+## Every publication links to its original source
+Four publications from 2020 to 2022, newest first. See the research index (https://joshijo77.github.io/research/).
+Improving textural properties of gluten-free veggie sausage with egg white proteins
+Hefei Zhao, Aiyun Han, Joshua J. Nduwamungu, Noriaki Nishijima, Yoshifumi Oda, Akihiro Handa, Yue Zhang, Kaustav Majumder, Changmou Xu
+Food Bioengineering, 2022. doi.org/10.1002/fbe2.12028 (https://doi.org/10.1002/fbe2.12028)
+The application of machine-learning and Raman spectroscopy for the rapid detection of edible oils type and adulteration
+Hefei Zhao, Yinglun Zhan, Zheng Xu, Joshua John Nduwamungu, Yuzhen Zhou, Robert Powers, Changmou Xu
+Food Chemistry, 2022. doi.org/10.1016/j.foodchem.2021.131471 (https://doi.org/10.1016/j.foodchem.2021.131471)
+Machine-Learning-Driven Raman Spectroscopy for Rapidly Detecting Type and Adulteration of Edible Oils
+Hefei Zhao, Yinglun Zhan, Xu Zheng, Joshua Nduwamungu, Yuzhen Zhou, Changmou Xu
+Proceedings of the Virtual 2020 AOCS Annual Meeting and Expo, 2020. doi.org/10.21748/am20.109 (https://doi.org/10.21748/am20.109)
+Machine learning-driven Raman spectroscopy for rapidly detecting type, adulteration, and oxidation of edible oils
+Hefei Zhao, Yinglun Zhan, Zheng Xu, Joshua John Nduwamungu, Yuzhen Zhou, Changmou Xu
+INFORM, 2020. doi.org/10.21748/inform.04.2020.12 (https://doi.org/10.21748/inform.04.2020.12)
+The journey
+## From Morogoro to the San Francisco Bay Area
+Five places, each one a step in my education and career.
+01 · Born
+### Morogoro
+Tanzania
+I was born in Morogoro to Rwandan and Tanzanian parents.
+02 · Moved
+### Kigali
+Rwanda
+I moved to Kigali. In summer 2019, I returned to volunteer as a coding teaching assistant at LEAPR Labs.
+03 · BSc 2020
+### Lincoln
+Nebraska
+I earned a bachelor of science at the University of Nebraska-Lincoln and did food science research.
+04 · MSc 2021
+### Notre Dame
+Indiana
+I earned a master of science at the University of Notre Dame.
+05 · Google since 2022
+### Bay Area
+California
+I joined Google as a Technical Program Manager in August 2022.
+### Career
+2022 to now
+Technical Program Manager
+Google · San Francisco Bay Area
+2022
+Data Engineering Fellow
+Correlation One, Data Science For All · Remote
+Selected for a 16-week fellowship with a 4% acceptance rate. Built a data pipeline on California wildfires and climate with a team of five.
+2020 to 2021
+Product Manager Intern
+CompuCom · Capstone project
+Cut phone support costs by 25% over six months with a virtual agent, and cut user tickets by 20% by rebuilding a knowledge base.
+2020 to 2021
+Strategy and IT Support
+Digital Leader Academy · Notre Dame, Indiana
+McCloskey New Venture Competition: one of 15 semifinalists nationwide, with a $10,000 award, leading a team of four.
+2019
+Teaching Assistant
+LEAPR Labs · Kigali, Rwanda
+2019
+Co-founder and Chief Marketing Officer
+Snack It · Lincoln, Nebraska
+2017 to 2020
+Research Assistant
+University of Nebraska-Lincoln Food Science Department · Lincoln, Nebraska
+Education
+## Degrees from Notre Dame and Nebraska
+May 2021
+### University of Notre Dame
+Notre Dame, Indiana
+Master of Science in Engineering, Science, and Technology Entrepreneurship
+Capstone: a commercial plan for a reimagined technical product and its end-user support services.
+May 2020
+### University of Nebraska-Lincoln
+Lincoln, Nebraska
+Bachelor of Science in Integrated Sciences
+Research assistant in the Food Science Department from 2017 to 2020.
+Ten certificates completed in 2021, including Google Cloud, Python automation, and engineering project management.
+
+============================================================
+Page: https://joshijo77.github.io/research/
+Research | Joshua J. Nduwamungu
+============================================================
+
+Home (https://joshijo77.github.io/)
+Research
+Research and writing
+# Three papers on machine learning, Raman spectroscopy, and plant-based food
+This research comes from my time as a research assistant in the University of Nebraska-Lincoln Food Science Department, from 2017 to 2020. Each summary explains the problem, the method, and the result in plain words, with links to the original source.
+Food Chemistry · 2022
+Checking an oil type usually needs slow chemical preparation.
+### Machine learning for edible oil testing
+Raman spectroscopy plus nine machine learning models identified oil type with 96.7% accuracy.
+INFORM · 2020
+Raman testing needed a more efficient workflow.
+### Faster checks for oil type, adulteration, and oxidation
+A magazine article for AOCS readers on using machine learning to read the Raman spectra of edible oils.
+Food Bioengineering · 2022
+Gluten and xanthan gum do not suit every shopper.
+### Egg white proteins for gluten-free veggie sausage
+One egg white protein, M200, gave the texture closest to a commercial meat sausage.
+These summaries are a personal project and are separate from my work at Google.
+
+============================================================
+Page: https://joshijo77.github.io/research/edible-oil-machine-learning/
+Machine learning for edible oil testing | Joshua J. Nduwamungu
+============================================================
+
+Home (https://joshijo77.github.io/)
+Research (https://joshijo77.github.io/research/)
+Edible oil testing
+Published research · Food Chemistry · 2022
+# Machine learning identified edible oil type with 96.7% accuracy
+Paper published March 2022
+Summary updated November 27, 2026
+2 minute read
+This paper in Food Chemistry paired Raman spectroscopy with nine supervised machine learning algorithms to check edible oils quickly. I am one of seven authors, from my time as a research assistant at the University of Nebraska-Lincoln.
+## The problem: oil checks are slow and use chemicals
+Labs usually confirm an oil type by measuring its fatty acids with gas chromatography. That method needs a chemical step first, which takes time and produces toxic solvent waste.
+Raman spectroscopy needs no chemical reagents. Its spectral analysis, however, has been slow and low throughput, which has limited its use.
+## How it works: spectra in, answers out
+The team collected Raman spectra for ten commercial edible oils from a variety of brands. Nine supervised machine learning algorithms learned to read those spectra. The results were then compared with a principal component analysis model.
+## What it found: high accuracy without chemical preparation
+The best model identified oil type with 96.7% accuracy.
+It predicted adulteration with an R² of 0.984.
+Several algorithms beat principal component analysis at sorting oils by fatty acid profile, reaching 100% accuracy.
+## Who it serves: labs that need fast food analysis
+The authors offer the method as a model for rapid food analysis that pairs conventional Raman spectroscopy or gas chromatography with machine learning.
+## Status: published
+Food Chemistry, volume 373, article 131471. Available online October 26, 2021.
+## Questions and answers
+What was my role?
+I am a co-author, listed fourth of seven. The work comes from my research assistant role in the University of Nebraska-Lincoln Food Science Department from 2017 to 2020.
+Can I read it for free?
+Yes. A free author manuscript is on PubMed Central, linked above.
+Is this connected to my work at Google?
+No. This is university research from before I joined Google in 2022.
+## How to cite it
+Hefei Zhao, Yinglun Zhan, Zheng Xu, Joshua John Nduwamungu, Yuzhen Zhou, Robert Powers, Changmou Xu (2022). The application of machine-learning and Raman spectroscopy for the rapid detection of edible oils type and adulteration. Food Chemistry, volume 373, article 131471. https://doi.org/10.1016/j.foodchem.2021.131471 (https://doi.org/10.1016/j.foodchem.2021.131471)
+Sources for this summary:
+doi.org/10.1016/j.foodchem.2021.131471 (https://doi.org/10.1016/j.foodchem.2021.131471)
+pubmed.ncbi.nlm.nih.gov/34749090/ (https://pubmed.ncbi.nlm.nih.gov/34749090/)
+bionmr.unl.edu/files/publications/172.pdf (https://bionmr.unl.edu/files/publications/172.pdf)
+This summary is a personal project. It covers university research and is separate from my work at Google.
+
+============================================================
+Page: https://joshijo77.github.io/research/raman-spectroscopy-inform/
+Faster checks for oil type, adulteration, and oxidation | Joshua J. Nduwamungu
+============================================================
+
+Home (https://joshijo77.github.io/)
+Research (https://joshijo77.github.io/research/)
+INFORM article
+Published research · INFORM · 2020
+# Machine learning can make Raman checks of edible oils faster
+Paper published April 2020
+Summary updated November 27, 2026
+2 minute read
+This article in INFORM, the AOCS magazine, explains how machine learning can speed up Raman spectroscopy for edible oils. I am one of six authors, from my time as a research assistant at the University of Nebraska-Lincoln.
+## The problem: a useful test that is slow to read
+Raman spectroscopy can test oils without damaging them. It is used to describe the chemistry of fats, tell oils apart, and detect adulteration and oxidation. The authors set out to make that analysis more efficient.
+## How it works: machine learning reads the spectra
+The authors used edible oils as the test case. They integrated machine learning into Raman spectroscopy so that it could pick out spectral features and detect oil type, adulteration, and oxidation quickly and accurately.
+## Who it serves: readers of the AOCS magazine
+The article was written for INFORM readers. The same research group later published the full peer-reviewed study on oil type and adulteration in Food Chemistry.
+## Status: published
+INFORM, volume 31, issue 4, pages 12 to 15, April 2020. Published by AOCS.
+## Questions and answers
+What was my role?
+I am a co-author, listed fourth of six, from my research assistant role at the University of Nebraska-Lincoln.
+Is there a related abstract?
+Yes. A related abstract appears in the proceedings of the Virtual 2020 AOCS Annual Meeting and Expo, linked in the publication list on the home page.
+Is this connected to my work at Google?
+No. This is university research from before I joined Google in 2022.
+## How to cite it
+Hefei Zhao, Yinglun Zhan, Zheng Xu, Joshua John Nduwamungu, Yuzhen Zhou, Changmou Xu (2020). Machine learning-driven Raman spectroscopy for rapidly detecting type, adulteration, and oxidation of edible oils. INFORM, volume 31, issue 4, pages 12 to 15, April 2020. https://doi.org/10.21748/inform.04.2020.12 (https://doi.org/10.21748/inform.04.2020.12)
+Sources for this summary:
+doi.org/10.21748/inform.04.2020.12 (https://doi.org/10.21748/inform.04.2020.12)
+www.aocs.org/network-and-connect/membership/member-and-society-news/new-folder/machine-learning-driven-raman-spectroscopy (https://www.aocs.org/network-and-connect/membership/member-and-society-news/new-folder/machine-learning-driven-raman-spectroscopy)
+This summary is a personal project. It covers university research and is separate from my work at Google.
+
+============================================================
+Page: https://joshijo77.github.io/research/egg-white-veggie-sausage/
+Egg white proteins for gluten-free veggie sausage | Joshua J. Nduwamungu
+============================================================
+
+Home (https://joshijo77.github.io/)
+Research (https://joshijo77.github.io/research/)
+Veggie sausage
+Published research · Food Bioengineering · 2022
+# One egg white protein could replace gluten and xanthan gum in veggie sausage
+Paper published October 2022
+Summary updated November 27, 2026
+2 minute read
+This open access paper in Food Bioengineering tested egg white proteins as a replacement for gluten and xanthan gum in plant-based sausage. I am one of nine authors. As a research assistant, I worked on reformulating a gluten-free veggie sausage to compare with a beef sausage.
+## The problem: common binders do not suit everyone
+Plant-based sausages often use gluten or xanthan gum for texture. Those ingredients do not suit people with gluten sensitivity or shoppers who want clean labels.
+## How it works: test two egg white proteins
+The team tested two commercial egg white proteins, P110 and M200, at levels from 0% to 10%. They measured color, texture, length, and weight loss, and used Raman spectroscopy to study the protein gels.
+## What it found: M200 came closest to meat
+M200 gave the texture closest to a commercial meat sausage.
+For texture, 5% M200 ranked first, then 5% P110, 3% gluten, and 1.3% xanthan gum.
+The egg white proteins had no significant effect on color, length, or weight loss.
+The M200 gel showed more alpha helix structure and a more ordered arrangement than the P110 gel.
+## Who it serves: makers of plant-based meat
+The authors conclude that M200 could replace both gluten and xanthan gum in veggie sausage. They add that the approach may apply to other meat analogs.
+## Status: published
+Food Bioengineering, volume 1, issues 3 and 4, pages 319 to 330. Published online October 11, 2022. Open access under CC BY 4.0.
+## Questions and answers
+What was my role?
+I am a co-author, listed third of nine. I worked on the sausage reformulation as a research assistant.
+Can I read it for free?
+Yes. The paper is open access under a CC BY 4.0 license.
+Is this connected to my work at Google?
+No. This is university research from before I joined Google in 2022.
+## How to cite it
+Hefei Zhao, Aiyun Han, Joshua J. Nduwamungu, Noriaki Nishijima, Yoshifumi Oda, Akihiro Handa, Yue Zhang, Kaustav Majumder, Changmou Xu (2022). Improving textural properties of gluten-free veggie sausage with egg white proteins. Food Bioengineering, volume 1, issues 3 and 4, pages 319 to 330. https://doi.org/10.1002/fbe2.12028 (https://doi.org/10.1002/fbe2.12028)
+Sources for this summary:
+doi.org/10.1002/fbe2.12028 (https://doi.org/10.1002/fbe2.12028)
+This summary is a personal project. It covers university research and is separate from my work at Google.
+
+
+Personal site. Views are my own and do not represent Google.
+Also known as Joshua John Nduwamungu, Joshua Nduwamungu, and Joshua J.N.

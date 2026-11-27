@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joshijo77.github.io/sitemap.xml
+
+# Summaries for AI agents
+# https://joshijo77.github.io/llms.txt
+# https://joshijo77.github.io/llms-full.txt

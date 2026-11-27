@@ -1,0 +1,34 @@
+# Joshua J. Nduwamungu
+
+> Joshua J. Nduwamungu is a Technical Program Manager at Google in the San Francisco Bay Area. He leads the technical work behind mergers, acquisitions, and divestitures across Google and Alphabet. Before Google, he co-authored three papers and one conference abstract on machine learning, Raman spectroscopy, and plant-based food at the University of Nebraska-Lincoln. Also known as Joshua John Nduwamungu, Joshua Nduwamungu, and Joshua J.N.
+
+## Work
+
+- [Career highlights](https://joshijo77.github.io/#work): Technical Program Manager at Google, since August 2022. Leads migration pipelines, workstation moves for acquired teams, and legacy cloud cleanup.
+- [Career timeline](https://joshijo77.github.io/#journey): Google, Correlation One, CompuCom, Digital Leader Academy, LEAPR Labs, Snack It, and University of Nebraska-Lincoln.
+
+## Projects
+
+- [Machine learning for edible oil testing](https://joshijo77.github.io/research/edible-oil-machine-learning/): Raman spectroscopy plus nine machine learning models identified oil type with 96.7% accuracy. Food Chemistry, 2022. DOI: https://doi.org/10.1016/j.foodchem.2021.131471
+- [Faster checks for oil type, adulteration, and oxidation](https://joshijo77.github.io/research/raman-spectroscopy-inform/): A magazine article for AOCS readers on using machine learning to read the Raman spectra of edible oils. INFORM, 2020. DOI: https://doi.org/10.21748/inform.04.2020.12
+- [Egg white proteins for gluten-free veggie sausage](https://joshijo77.github.io/research/egg-white-veggie-sausage/): One egg white protein, M200, gave the texture closest to a commercial meat sausage. Food Bioengineering, 2022. DOI: https://doi.org/10.1002/fbe2.12028
+
+## Writing
+
+- [Research index](https://joshijo77.github.io/research/): plain-language summaries of each paper.
+- [Publication list](https://joshijo77.github.io/#writing): four publications from 2020 to 2022, including a 2020 AOCS Annual Meeting abstract (https://doi.org/10.21748/am20.109).
+
+## Education
+
+- [University of Notre Dame](https://www.nd.edu): Master of Science in Engineering, Science, and Technology Entrepreneurship, May 2021.
+- [University of Nebraska-Lincoln](https://www.unl.edu): Bachelor of Science in Integrated Sciences, May 2020.
+
+## Links
+
+- [Website](https://joshijo77.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/joshua-j-nduwamungu)
+- [GitHub](https://github.com/joshijo77)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=gFSQpskAAAAJ)
+- [Full site text](https://joshijo77.github.io/llms-full.txt)
+
+Personal site. Views are my own and do not represent Google.
