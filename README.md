@@ -10,6 +10,10 @@ The site is static HTML and one CSS file, with self-hosted fonts and no build st
 - [Research](https://joshijo77.github.io/research/): plain-language summaries of three published papers
 - [llms.txt](https://joshijo77.github.io/llms.txt) and [llms-full.txt](https://joshijo77.github.io/llms-full.txt): summaries for AI agents
 
+## Archive
+
+Version 1.0.0 of this repository is archived on Zenodo: [doi.org/10.5281/zenodo.24582621](https://doi.org/10.5281/zenodo.24582621).
+
 ## License
 
 The code is released under the MIT License. See [LICENSE](LICENSE).
